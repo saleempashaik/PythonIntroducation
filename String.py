@@ -13,3 +13,8 @@ print(str[2])
 print(str.index("a"))
 
 print(str.replace("c","C"))
+
+
+x = 3
+
+print (x)
